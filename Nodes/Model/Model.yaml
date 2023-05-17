@@ -1,0 +1,11 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- File: Variables/Variables.yaml
+- Name: Variable1
+  Id: g=6adaf2fbbc162f4863771ef48a520980
+  Type: BaseDataVariableType
+  DataType: Int32
+  ValueRank: OneDimension
+  ArrayDimensions: [2]
+  Value: [10,20]
